@@ -1,4 +1,4 @@
-from rsserpent.models import Persona, Plugin
+from rsserpent_rev.models import Persona, Plugin
 
 from . import group
 

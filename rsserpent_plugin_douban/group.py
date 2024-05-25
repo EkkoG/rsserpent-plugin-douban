@@ -2,7 +2,7 @@ from typing import Any, Dict
 
 import arrow
 from pyquery import PyQuery
-from rsserpent.utils import HTTPClient, cached
+from rsserpent_rev.utils import HTTPClient, cached
 
 
 path = "/douban/group/{gid}"
